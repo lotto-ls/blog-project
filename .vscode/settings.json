@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "generate-react-component.componentTemplatePath": "D:\\study\\blog-project\\react-sass-component-template",
+    "generate-react-component.containerTemplatePath": "D:\\study\\blog-project\\react-sass-component-template"
 }
