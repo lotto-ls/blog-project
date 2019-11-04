@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const cx = classNames.bind(styles);
 
-const Header = () => {
+const Header = () => (
     <header className={cx('header')}>
         <div className={cx('header-content')}>
             <div className={cx('brand')}>
@@ -17,6 +17,6 @@ const Header = () => {
             </div>
         </div>
     </header>
-};
+);
 
 export default Header;
